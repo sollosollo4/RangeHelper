@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeathgiverHelper", "DeathgiverHelper\DeathgiverHelper.csproj", "{BF6B9363-4ABD-4779-A7A8-3A9591F310EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeHelper", "DeathgiverHelper\RangeHelper.csproj", "{BF6B9363-4ABD-4779-A7A8-3A9591F310EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

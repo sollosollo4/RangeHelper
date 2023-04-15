@@ -1,4 +1,4 @@
-﻿using DeathgiverHelper.Properties;
+﻿using RangeHelper.Properties;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
